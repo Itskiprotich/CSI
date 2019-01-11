@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "64626280594",
+    "firebase_url": "https://csifirebaseproject-bfdfc.firebaseio.com",
+    "project_id": "csifirebaseproject-bfdfc",
+    "storage_bucket": "csifirebaseproject-bfdfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64626280594:android:bb78c369fe80393f",
+        "android_client_info": {
+          "package_name": "com.example.keeprawteach.csi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64626280594-h2ma2oa4usgmdlukalo05ddrra8ll5ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keeprawteach.csi",
+            "certificate_hash": "6dcf1628392b740ab2808154f0ca03057f3b76b8"
+          }
+        },
+        {
+          "client_id": "64626280594-34esmst20jiqit686ikf2g7t80cf5djk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo65Nu723fHFr8LlXbkPN3yKG4vuI02P4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64626280594-34esmst20jiqit686ikf2g7t80cf5djk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
